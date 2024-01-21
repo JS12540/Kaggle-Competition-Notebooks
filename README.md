@@ -3,13 +3,6 @@
 
 This repository contains notebooks and code submissions for various Kaggle competitions by [jayshah1234](https://www.kaggle.com/jayshah1234).
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Competitions](#competitions)
-- [Notebooks](#notebooks)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Welcome to the Kaggle Competition Notebooks repository! Here, you'll find Jupyter notebooks and code solutions submitted by [jayshah1234](https://www.kaggle.com/jayshah1234) for different Kaggle competitions. Feel free to explore, learn, and contribute!
