@@ -1,6 +1,5 @@
 # Kaggle Competition Notebooks
 
-![Kaggle Logo](https://storage.googleapis.com/kaggle-organizations/685/thumbnail.png)
 
 This repository contains notebooks and code submissions for various Kaggle competitions by [jayshah1234](https://www.kaggle.com/jayshah1234).
 
